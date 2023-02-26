@@ -17,7 +17,7 @@ Make research on different subject that could be helpfull for the project :
 - What's already existing
 - And more
 
-## What's I'm currently doing
+## What I am currently doing
 
 - Summarize and synthetize all the research I've done
 - Write the functionnal specification for the project
